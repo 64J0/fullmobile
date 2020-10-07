@@ -18,6 +18,8 @@ Assinatura: 99 dólares anuais para uma conta de desenvolvedor/pessoa física. 4
 
 Paga apenas uma vez o valor de 25 dólares.
 
+Informações sobre o erro que apareceu: https://github.com/react-native-webview/react-native-webview/issues/1050.
+
 ---
 
 Vinícius Gajo Marques Oliveira, 2020.
